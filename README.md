@@ -30,6 +30,7 @@ This repository documents my journey of strengthening my **Data Structures & Alg
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/kanan-preet-kaur/leetcode-solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/kanan-preet-kaur/leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
+| [0338-counting-bits](https://github.com/kanan-preet-kaur/leetcode-solutions/tree/main/0338-counting-bits/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -38,4 +39,8 @@ This repository documents my journey of strengthening my **Data Structures & Alg
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/kanan-preet-kaur/leetcode-solutions/tree/main/0191-number-of-1-bits/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0338-counting-bits](https://github.com/kanan-preet-kaur/leetcode-solutions/tree/main/0338-counting-bits/) | Easy |
 <!---LeetCode Topics End-->
