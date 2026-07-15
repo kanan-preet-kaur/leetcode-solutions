@@ -25,6 +25,7 @@ This repository documents my journey of strengthening my **Data Structures & Alg
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/kanan-preet-kaur/leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/kanan-preet-kaur/leetcode-solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,4 +65,8 @@ This repository documents my journey of strengthening my **Data Structures & Alg
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kanan-preet-kaur/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/kanan-preet-kaur/leetcode-solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
